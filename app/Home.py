@@ -28,7 +28,7 @@ from tripwire.mapview import fit_view
 from tripwire.queries import Filters
 from tripwire.web import safe_url
 
-REPO_URL = "https://github.com/trism-dev/tripwire-awareness-dashboard"
+REPO_URL = "https://github.com/trism-prism/tripwire-awareness-dashboard"
 GDELT_URL = "https://www.gdeltproject.org/"
 STALE_AFTER_MIN = 30  # PRD section 4: data should be no more than 30 minutes behind GDELT
 
