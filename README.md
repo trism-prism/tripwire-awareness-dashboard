@@ -1,6 +1,6 @@
 # Tripwire
 
-![CI](https://github.com/trism-dev/tripwire-awareness-dashboard/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/trism-prism/tripwire-awareness-dashboard/actions/workflows/ci.yml/badge.svg)
 
 Open-source situational awareness dashboard built on GDELT 2.0 Events. It loads the GDELT feed every
 15 minutes, keeps conflict and unrest events that have a usable location, groups them into mission
